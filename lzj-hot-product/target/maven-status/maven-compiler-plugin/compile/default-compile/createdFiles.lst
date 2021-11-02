@@ -1,0 +1,6 @@
+com\wjc\hotproduct\dao\impl\HotProductDaoImpl.class
+com\wjc\hotproduct\HotProductApplication.class
+com\wjc\hotproduct\dao\HotProductDao.class
+com\wjc\hotproduct\controller\HotProductController.class
+com\wjc\hotproduct\service\impl\HotProductServiceImpl.class
+com\wjc\hotproduct\service\HotProductService.class

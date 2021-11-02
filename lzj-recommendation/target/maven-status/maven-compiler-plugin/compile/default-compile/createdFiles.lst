@@ -1,0 +1,6 @@
+controller\RecommendationController.class
+service\RecommendationService.class
+RecommendationApplication.class
+service\impl\RecommendationSeviceImpl.class
+dao\RecommendationDao.class
+dao\impl\RecommendationDaoImpl.class
