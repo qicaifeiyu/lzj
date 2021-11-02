@@ -16,6 +16,16 @@ spring:
           uri: lb://lzj-banner
           predicates:
             - Path=/banner/**
+        - id: lzj-hot-product
+          uri: lb://lzj-hot-product
+          predicates:
+            - Path=/hotProduct/**
+            - Query=city
+        - id: lzj-recommendation
+          uri: lb://lzj-recommendation
+          predicates:
+            - Path=/recommendation/**
+            - Query=city
 
 eureka:
   instance:
