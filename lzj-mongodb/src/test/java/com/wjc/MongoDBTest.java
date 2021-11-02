@@ -26,27 +26,27 @@ public class MongoDBTest {
 
         Banner banner1 = new Banner();
         banner1.setCreateTime(new Date());
-        banner1.setUrl("group1/M00/00/00/wKgKZGF6phyABMg8AADZCwsgDr8539.png");
+        banner1.setUrl("group1/M00/00/00/wKgKZGF6phyABMg8AADZCwsgDr8539.jpg");
 
         Banner banner2 = new Banner();
         banner2.setCreateTime(new Date());
-        banner2.setUrl("group1/M00/00/00/wKgKZGF6piaAQkE8AADEWJ2H-q8480.png");
+        banner2.setUrl("group1/M00/00/00/wKgKZGF6piaAQkE8AADEWJ2H-q8480.jpg");
 
         Banner banner3 = new Banner();
         banner3.setCreateTime(new Date());
-        banner3.setUrl("group1/M00/00/00/wKgKZGF6piCAUb_hAACj6oiIMnY060.png");
+        banner3.setUrl("group1/M00/00/00/wKgKZGF6piCAUb_hAACj6oiIMnY060.jpg");
 
         Banner banner4 = new Banner();
         banner4.setCreateTime(new Date());
-        banner4.setUrl("group1/M00/00/00/wKgKZGF6pimALBW3AACUlqaDUJs505.png");
+        banner4.setUrl("group1/M00/00/00/wKgKZGF6pimALBW3AACUlqaDUJs505.jpg");
 
         Banner banner5 = new Banner();
         banner5.setCreateTime(new Date());
-        banner5.setUrl("group1/M00/00/00/wKgKZGF6piOAB6FwAADzZuYOH74361.png");
+        banner5.setUrl("group1/M00/00/00/wKgKZGF6piOAB6FwAADzZuYOH74361.jpg");
 
         Banner banner6 = new Banner();
         banner6.setCreateTime(new Date());
-        banner6.setUrl("group1/M00/00/00/wKgKZGF6piyAI4CZAACkIflZOdk031.png");
+        banner6.setUrl("group1/M00/00/00/wKgKZGF6piyAI4CZAACkIflZOdk031.jpg");
 
         list.add(banner1);
         list.add(banner2);

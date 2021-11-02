@@ -14,7 +14,7 @@
         <module>lzj-mongodb</module>
         <module>lzj-banner</module>
         <module>lzj-commons</module>
-        <module>lzj-commons01</module>
+        <module>lzj-gateway</module>
     </modules>
 
     <properties>
